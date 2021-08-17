@@ -1,0 +1,2 @@
+# smarthomeAPI
+resultados de querys
